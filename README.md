@@ -11,4 +11,4 @@ Build and server server
 Go to http://localhost:3000/ or click link in console
 
 
-(Maybe I create parse link wrong, but don't depend on parametrs I always get the same response)
+(Maybe I have creates parse link wrong, but don't depend on parametrs I always get the same response)
